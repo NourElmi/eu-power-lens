@@ -1,0 +1,14 @@
+﻿# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+.ruff_cache/
+.pytest_cache/
+
+# Secrets and data
+.env
+data/
